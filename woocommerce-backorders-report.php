@@ -1,13 +1,13 @@
 <?php
-/*
-Plugin Name: WooCommerce - Backorders Report
-Plugin URI:  https://filament-studios.com/downloads/woocommerce-category-fees
-Description: Show a of backordered items in the WooCommerce Dashboard
-Version:     1.0
-Author:      Filament Studios
-Author URI:  https://filament-studios.com
-License:     GPL-2.0+
-Tested up to: 4.3
+/**
+* Plugin Name: WooCommerce - Backorders Report
+* Plugin URI:  https://filament-studios.com/downloads/woocommerce-category-fees
+* Description: Show a of backordered items in the WooCommerce Dashboard
+* Version:     1.0.1
+* Author:      Filament Studios
+* Author URI:  https://filament-studios.com
+* License:     GPL-2.0+
+* Tested up to: 4.3
 */
 
 if ( ! class_exists( 'WC_Backorders_Report' ) ) {
