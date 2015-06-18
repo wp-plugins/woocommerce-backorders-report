@@ -1,4 +1,4 @@
-=== WooCommerces Backorder Report ===
+=== WooCommerce Backorder Report ===
 Contributors: cklosows
 Tags: woocommerce, reports, backoders, stock, management
 Requires at least: 4.0
