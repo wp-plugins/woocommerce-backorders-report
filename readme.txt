@@ -3,7 +3,7 @@ Contributors: cklosows
 Tags: woocommerce, reports, backoders, stock, management
 Requires at least: 4.0
 Tested up to: 4.3
-Stable tag: 1.0
+Stable tag: 1.0.1
 Donate link: https://filament-studios.com/donate
 License: GPLv2 or later
 
